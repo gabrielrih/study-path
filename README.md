@@ -226,3 +226,4 @@ _Others_:
 ## Course plataforms
 - [Udemy](https://www.udemy.com/)
 - [Cloud Guru](https://learn.acloud.guru)
+- [educative.io](https://www.educative.io/)
