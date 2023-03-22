@@ -136,6 +136,9 @@ Usefull links:
 - [Real Python tutorials](https://realpython.com/)
 - [Tech guide for Python study](https://techguide.sh/pt-BR/path/python/)
 
+Books:
+- [Python Fluente](https://books.google.com.br/books?id=XqbfCgAAQBAJ&printsec=frontcover&redir_esc=y#v=onepage&q&f=false)
+
 ## 4. Infrastructure as Code
 
 ### Terraform
