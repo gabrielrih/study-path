@@ -131,10 +131,15 @@ Courses:
 
 Articles:
 - [Create you custom Python package](https://towardsdatascience.com/create-your-custom-python-package-that-you-can-pip-install-from-your-git-repository-f90465867893)
+- [Packing and Unpacking arguments](https://www.geeksforgeeks.org/packing-and-unpacking-arguments-in-python/)
+- [Duck Typing](https://www.devmedia.com.br/duck-typing-com-python/40223)
+- [Abstract classes in Python](https://www.geeksforgeeks.org/abstract-classes-in-python/)
+- [The factory method](https://realpython.com/factory-method-python/)
 
 Usefull links:
 - [Real Python tutorials](https://realpython.com/)
 - [Tech guide for Python study](https://techguide.sh/pt-BR/path/python/)
+- [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/#names-to-avoid)
 
 Books:
 - [Python Fluente](https://books.google.com.br/books?id=XqbfCgAAQBAJ&printsec=frontcover&redir_esc=y#v=onepage&q&f=false)
