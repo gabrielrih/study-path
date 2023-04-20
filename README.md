@@ -140,6 +140,8 @@ Usefull links:
 - [Real Python tutorials](https://realpython.com/)
 - [Tech guide for Python study](https://techguide.sh/pt-BR/path/python/)
 - [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/#names-to-avoid)
+- [Flask API](https://flask.palletsprojects.com/en/2.2.x/)
+- [FastAPI VS Flask](https://www.turing.com/kb/fastapi-vs-flask-a-detailed-comparison)
 
 Books:
 - [Python Fluente](https://books.google.com.br/books?id=XqbfCgAAQBAJ&printsec=frontcover&redir_esc=y#v=onepage&q&f=false)
