@@ -133,8 +133,8 @@ Articles:
 - [Create you custom Python package](https://towardsdatascience.com/create-your-custom-python-package-that-you-can-pip-install-from-your-git-repository-f90465867893)
 - [Packing and Unpacking arguments](https://www.geeksforgeeks.org/packing-and-unpacking-arguments-in-python/)
 - [Duck Typing](https://www.devmedia.com.br/duck-typing-com-python/40223)
+- [Design Patterns](https://refactoring.guru/design-patterns)
 - [Abstract classes in Python](https://www.geeksforgeeks.org/abstract-classes-in-python/)
-- [The factory method](https://realpython.com/factory-method-python/)
 
 Usefull links:
 - [Real Python tutorials](https://realpython.com/)
