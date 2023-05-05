@@ -128,6 +128,7 @@ Books:
 
 Courses:
 - [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/?kw=The+Complete+Python+Bootcamp+From+Zero+to+Hero+in+Python&src=sac)
+- [Design Pattherns in Python](https://www.udemy.com/course/design-patterns-python/)
 
 Articles:
 - [Create you custom Python package](https://towardsdatascience.com/create-your-custom-python-package-that-you-can-pip-install-from-your-git-repository-f90465867893)
