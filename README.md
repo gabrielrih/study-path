@@ -55,6 +55,9 @@ Others:
 - [PostgreSQL para DBAs SQL Server (Parte 2)](https://www.youtube.com/watch?v=xvzVxHLlowA)
 - [PGConf.Brasil](https://www.pgconf.com.br/)
 
+Architecture:
+![Alt text](.docs/img/pg/architecture.jpeg "architecture")
+
 
 ### SQL Server
 
