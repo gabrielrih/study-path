@@ -38,12 +38,15 @@ Courses:
 
 Docs:
 - [PostgreSQL Latest Documentation](https://www.postgresql.org/docs/current/index.html)
+- [Explicit Locking](https://www.postgresql.org/docs/current/explicit-locking.html)
+- [VACUUM](https://www.postgresql.org/docs/current/sql-vacuum.html)
 - [Work with Azure Database for PostgreSQL](https://learn.microsoft.com/en-us/training/paths/microsoft-learn-azure-database-for-postgresql/)
 
 Usefull:
 - [PGConfig](https://www.pgconfig.org/#/?max_connections=100&pg_version=15&environment_name=WEB&total_ram=4&cpus=2&drive_type=SSD&arch=x86-64&os_type=linux)
 - [PGTune](https://pgtune.leopard.in.ua/)
 - [DBeaver](https://dbeaver.io/download/)
+- [pg_repack](https://github.com/reorg/pg_repack): An alternative for VACCUM FULL. It does basically the same but ONLINE (VACUUM FULL generates LOCK).
 
 Others:
 - [17 practical psql commands that you don't want to miss](https://www.postgresqltutorial.com/postgresql-administration/psql-commands/)
