@@ -131,6 +131,10 @@ Usefull links:
 Books:
 - [Clean Code](https://play.google.com/store/books/details?id=_i6bDeoCQzsC&source=gbs_api)
 
+### Git
+- [Official website](https://git-scm.com/)
+- [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/)
+
 ### Docker
 - [Free portuguese course](https://docker-unleashed.readthedocs.io/)
 - [Official tutorial Docker](https://www.docker.com/101-tutorial)
