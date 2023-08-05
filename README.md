@@ -10,6 +10,7 @@ Most of them I already study and I keep here for future references. But, some of
 - [2. Cloud Computing](#2-cloud-computing)
     - [Azure](#azure)
 - [3. Programming](#3-programming)
+    - [Docker](#docker)
     - [Python](#python)
 - [4. Infrastructure as Code](#4-infrastructure-as-code)
     - [Terraform](#terraform)
@@ -129,6 +130,11 @@ Usefull links:
 
 Books:
 - [Clean Code](https://play.google.com/store/books/details?id=_i6bDeoCQzsC&source=gbs_api)
+
+### Docker
+- [Free portuguese course](https://docker-unleashed.readthedocs.io/)
+- [Official tutorial Docker](https://www.docker.com/101-tutorial)
+- [Online Docker lab](https://labs.play-with-docker.com/)
 
 ### Python
 
