@@ -10,6 +10,7 @@ Most of them I already study and I keep here for future references. But, some of
 - [2. Cloud Computing](#2-cloud-computing)
     - [Azure](#azure)
 - [3. Programming](#3-programming)
+    - [Git](#git)
     - [Docker](#docker)
     - [Python](#python)
 - [4. Infrastructure as Code](#4-infrastructure-as-code)
