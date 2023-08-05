@@ -136,6 +136,8 @@ Books:
 - [Official tutorial Docker](https://www.docker.com/101-tutorial)
 - [Online Docker lab](https://labs.play-with-docker.com/)
 
+![Alt text](.docs/img/docker/docker_mind_map.png "mind_map")
+
 ### Python
 
 Courses:
