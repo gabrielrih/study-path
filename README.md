@@ -43,6 +43,7 @@ Docs:
 - [Explicit Locking](https://www.postgresql.org/docs/current/explicit-locking.html)
 - [VACUUM](https://www.postgresql.org/docs/current/sql-vacuum.html)
 - [Work with Azure Database for PostgreSQL](https://learn.microsoft.com/en-us/training/paths/microsoft-learn-azure-database-for-postgresql/)
+- [Postgres Tips & Tricks](https://www.crunchydata.com/postgres-tips)
 
 Usefull:
 - [PGConfig](https://www.pgconfig.org/#/?max_connections=100&pg_version=15&environment_name=WEB&total_ram=4&cpus=2&drive_type=SSD&arch=x86-64&os_type=linux)
@@ -78,9 +79,15 @@ Scripts:
 
 ### MongoDB
 
-Docs:
 - [What is MongoDB?](https://www.mongodb.com/docs/manual/)
 - [MongoDB Atlas API resources](https://www.mongodb.com/docs/atlas/reference/api-resources/)
+
+
+Modeling:
+- [Data Modeling Introduction](https://www.mongodb.com/docs/manual/core/data-modeling-introduction/#data-modeling-introduction)
+- [Schema Validation](https://www.mongodb.com/docs/manual/core/schema-validation/#schema-validation)
+- [A Comprehensive Guide to Data Modeling](https://www.mongodb.com/basics/data-modeling?bpass=true)
+- [A Summary of Schema Design Anti-Patterns and How to Spot Them](https://www.mongodb.com/developer/products/mongodb/schema-design-anti-pattern-summary/)
 - [Building with patterns: a summary](https://www.mongodb.com/blog/post/building-with-patterns-a-summary)
 
 Certification path:
