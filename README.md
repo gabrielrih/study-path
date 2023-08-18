@@ -12,6 +12,7 @@ Most of them I already study and I keep here for future references. But, some of
 - [3. Programming](#3-programming)
     - [Git](#git)
     - [Docker](#docker)
+    - [Kubernetes](#kubernetes)
     - [Python](#python)
 - [4. Infrastructure as Code](#4-infrastructure-as-code)
     - [Terraform](#terraform)
@@ -146,9 +147,13 @@ Books:
 ### Docker
 - [Free portuguese course](https://docker-unleashed.readthedocs.io/)
 - [Official tutorial Docker](https://www.docker.com/101-tutorial)
-- [Online Docker lab](https://labs.play-with-docker.com/)
+- [Play with Docker](https://labs.play-with-docker.com/)
+- [Dive tool](https://github.com/wagoodman/dive)
 
 ![Alt text](.docs/img/docker/docker_mind_map.png "mind_map")
+
+### Kubernetes
+- [Play with K8S](https://labs.play-with-k8s.com/)
 
 ### Python
 
