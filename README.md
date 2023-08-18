@@ -178,6 +178,11 @@ Usefull links:
 Books:
 - [Python Fluente](https://books.google.com.br/books?id=XqbfCgAAQBAJ&printsec=frontcover&redir_esc=y#v=onepage&q&f=false)
 
+Tools:
+- [Codecov](https://app.codecov.io/gh/gabrielrih): Used for code coverage
+- [Flake8](https://pypi.org/project/flake8/)
+- [pytest](https://docs.pytest.org/en/7.4.x/)
+
 ## 4. Infrastructure as Code
 
 ### Terraform
