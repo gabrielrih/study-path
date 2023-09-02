@@ -8,6 +8,7 @@ Most of them I already study and I keep here for future references. But, some of
     - [SQL Server](#sql-server)
     - [MongoDB](#mongodb)
 - [2. Cloud Computing](#2-cloud-computing)
+    - [Compare cloud services](#compare-cloud-services)
     - [Azure](#azure)
 - [3. Programming](#3-programming)
     - [Git](#git)
@@ -59,7 +60,6 @@ Others:
 - [PostgreSQL para DBAs SQL Server (Parte 2)](https://www.youtube.com/watch?v=xvzVxHLlowA)
 - [PGConf.Brasil](https://www.pgconf.com.br/)
 
-Architecture:
 ![Alt text](.docs/img/pg/architecture.jpeg "architecture")
 
 
@@ -113,6 +113,10 @@ Usefull tools:
 
 Books:
 - [Cloud Computing](https://books.google.com.br/books/about/Cloud_Computing.html?hl=&id=KBwEDAAAQBAJ&redir_esc=y)
+
+### Compare cloud services
+- [Compare cloud](https://comparecloud.in/)
+- [Cloud comparison tool](https://www.cloudcomparisontool.com/)
 
 ### Azure
 
