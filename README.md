@@ -8,8 +8,8 @@ Most of them I already study and I keep here for future references. But, some of
     - [SQL Server](#sql-server)
     - [MongoDB](#mongodb)
 - [2. Cloud Computing](#2-cloud-computing)
-    - [Compare cloud services](#compare-cloud-services)
     - [Azure](#azure)
+    - [AWS](#aws)
 - [3. Programming](#3-programming)
     - [Git](#git)
     - [Docker](#docker)
@@ -114,7 +114,10 @@ Usefull tools:
 Books:
 - [Cloud Computing](https://books.google.com.br/books/about/Cloud_Computing.html?hl=&id=KBwEDAAAQBAJ&redir_esc=y)
 
-### Compare cloud services
+FinOps:
+- [Maturity Model](https://www.finops.org/framework/maturity-model/)
+
+Usefull links:
 - [Compare cloud](https://comparecloud.in/)
 - [Cloud comparison tool](https://www.cloudcomparisontool.com/)
 
@@ -138,6 +141,12 @@ Usefull links:
 - [Azure portal](https://portal.azure.com)
 - [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks/)
 - [Pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
+- [Online AWS diagram (with pricing)](https://www.cloudcraft.co/)
+
+### AWS
+
+Usefull links:
+- [Online AWS diagram (with pricing)](https://www.cloudcraft.co/)
 
 ## 3. Programming
 
