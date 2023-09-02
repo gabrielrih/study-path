@@ -10,6 +10,7 @@ Most of them I already study and I keep here for future references. But, some of
 - [2. Cloud Computing](#2-cloud-computing)
     - [Azure](#azure)
     - [AWS](#aws)
+    - [GCP](#gcp)
 - [3. Programming](#3-programming)
     - [Git](#git)
     - [Docker](#docker)
@@ -124,6 +125,8 @@ Usefull links:
 ### Azure
 
 Docs:
+- [Cloud Adoption](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/)
+- [Cloud Adoption: antipatterns](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/antipatterns/antipatterns-to-avoid)
 - [Azure REST API referece](https://learn.microsoft.com/en-us/rest/api/azure/)
 - [Azure Powershell](https://learn.microsoft.com/en-us/powershell/azure/?view=azps-9.5.0)
 
@@ -145,8 +148,16 @@ Usefull links:
 
 ### AWS
 
+Docs:
+- [Cloud Adoption](https://aws.amazon.com/pt/cloud-adoption-framework/)
+
 Usefull links:
 - [Online AWS diagram (with pricing)](https://www.cloudcraft.co/)
+
+### GCP
+
+Docs:
+- [Cloud Adoption](https://cloud.google.com/adoption-framework?hl=pt-br)
 
 ## 3. Programming
 
