@@ -34,6 +34,7 @@ Books:
 
 Docs:
 - [Work with relation data in Azure](https://learn.microsoft.com/en-us/training/paths/work-with-relational-data-in-azure/)
+- [SQL Roadmap](https://roadmap.sh/sql)
 
 ### PostgreSQL
 
