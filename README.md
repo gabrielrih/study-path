@@ -24,6 +24,7 @@ Most of them I already study and I keep here for future references. But, some of
     - [Kubernetes](#kubernetes)
 - [6. Monitoring And Observability](#6-monitoring-and-observability)
     - [Datadog](#datadog)
+- [7. Security](#7-security)
 - [Usefull tools](#usefull-tools)
 - [Course plataforms](#course-plataforms)
 
@@ -268,6 +269,10 @@ Frameworks:
 
 - [Learning path](https://learn.datadoghq.com/)
 - [Support](https://help.datadoghq.com/hc/en-us)
+
+## 7. Security
+- [Search for vulnerabilities](https://cve.mitre.org/cve/search_cve_list.html)
+- [ExploitDB](https://www.exploit-db.com/)
 
 ## Usefull tools
 _Diagram_:
