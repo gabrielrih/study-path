@@ -273,6 +273,7 @@ Frameworks:
 ## 7. Security
 - [Search for vulnerabilities](https://cve.mitre.org/cve/search_cve_list.html)
 - [ExploitDB](https://www.exploit-db.com/)
+- [CIS controls](https://www.cisecurity.org/controls)
 
 ## Usefull tools
 _Diagram_:
