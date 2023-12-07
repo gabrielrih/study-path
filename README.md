@@ -83,6 +83,9 @@ Scripts:
 - [Backup, integrity check and index/statistics maintenance](https://ola.hallengren.com/)
 - [Index and statistics maintenance](https://ola.hallengren.com/sql-server-index-and-statistics-maintenance.html)
 
+Tools:
+- [Plan Explorer (SolarWinds)](https://www.solarwinds.com/free-tools/plan-explorer)
+
 ### MongoDB
 
 - [What is MongoDB?](https://www.mongodb.com/docs/manual/)
