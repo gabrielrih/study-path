@@ -226,6 +226,7 @@ Docs:
 - [Getting started](https://developer.hashicorp.com/terraform/tutorials/cloud-get-started)
 - [Terraform language documentation](https://developer.hashicorp.com/terraform/language)
 - [Terraform registry](https://registry.terraform.io/)
+- [Best practices](https://www.terraform-best-practices.com/)
 
 Certification path:
 - [Prepare for Terraform Certification (002)](https://developer.hashicorp.com/terraform/tutorials/certification?ajs_aid=7a14d573-1872-4d3e-81ef-7795f42f9691&product_intent=terraform)
