@@ -214,6 +214,9 @@ Tools:
 - [Flake8](https://pypi.org/project/flake8/)
 - [pytest](https://docs.pytest.org/en/7.4.x/)
 
+Design Patterns:
+- [Architecture designt patterns: example saga, publisher/subscriber](https://learn.microsoft.com/en-us/azure/architecture/patterns/sidecar)
+
 ## 4. Infrastructure as Code
 
 ### Terraform
