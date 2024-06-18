@@ -57,6 +57,8 @@ Usefull:
 - [PGTune](https://pgtune.leopard.in.ua/)
 - [DBeaver](https://dbeaver.io/download/)
 - [pg_repack](https://github.com/reorg/pg_repack): An alternative for VACCUM FULL. It does basically the same but ONLINE (VACUUM FULL generates LOCK).
+- [Helping with explain: dalibo](https://explain.dalibo.com/)
+- [Helping with explain: depesz](https://explain.depesz.com/)
 
 Others:
 - [17 practical psql commands that you don't want to miss](https://www.postgresqltutorial.com/postgresql-administration/psql-commands/)
