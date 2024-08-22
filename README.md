@@ -34,6 +34,7 @@ Books:
 - [Database Internals](https://books.google.com.br/books?id=-l2vDwAAQBAJ&dq=database+internals&hl=&source=gbs_api)
 
 Docs:
+- [Database of databases](https://dbdb.io/)
 - [Work with relation data in Azure](https://learn.microsoft.com/en-us/training/paths/work-with-relational-data-in-azure/)
 - [SQL Roadmap](https://roadmap.sh/sql)
 - [DB engines - Ranking](https://db-engines.com/en/ranking)
