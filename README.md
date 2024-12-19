@@ -48,6 +48,7 @@ Courses:
 
 Docs:
 - [PostgreSQL Latest Documentation](https://www.postgresql.org/docs/current/index.html)
+- [The Internals of PostgreSQL](https://www.interdb.jp/pg/)
 - [Explicit Locking](https://www.postgresql.org/docs/current/explicit-locking.html)
 - [VACUUM](https://www.postgresql.org/docs/current/sql-vacuum.html)
 - [Work with Azure Database for PostgreSQL](https://learn.microsoft.com/en-us/training/paths/microsoft-learn-azure-database-for-postgresql/)
