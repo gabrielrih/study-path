@@ -25,6 +25,7 @@ Most of them I already study and I keep here for future references. But, some of
 - [6. Monitoring And Observability](#6-monitoring-and-observability)
     - [Datadog](#datadog)
 - [7. Security](#7-security)
+- [8. AI]()
 - [Usefull tools](#usefull-tools)
 - [Course plataforms](#course-plataforms)
 
@@ -287,6 +288,9 @@ Frameworks:
 - [Search for vulnerabilities](https://cve.mitre.org/cve/search_cve_list.html)
 - [ExploitDB](https://www.exploit-db.com/)
 - [CIS controls](https://www.cisecurity.org/controls)
+
+## 8. AI
+- [Ollama: Running AI on your machine](https://ollama.com/): You [install](https://ollama.com/download) Ollama on your machine, downloads a [model](https://ollama.com/search) and then run it locally.
 
 ## Usefull tools
 _Diagram_:
