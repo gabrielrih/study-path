@@ -25,7 +25,7 @@ Most of them I already study and I keep here for future references. But, some of
 - [6. Monitoring And Observability](#6-monitoring-and-observability)
     - [Datadog](#datadog)
 - [7. Security](#7-security)
-- [8. AI]()
+- [8. AI](#8-AI)
 - [Usefull tools](#usefull-tools)
 - [Course plataforms](#course-plataforms)
 
