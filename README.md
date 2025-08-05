@@ -291,6 +291,7 @@ Frameworks:
 
 ## 8. AI
 - [Ollama: Running AI on your machine](https://ollama.com/): You [install](https://ollama.com/download) Ollama on your machine, downloads a [model](https://ollama.com/search) and then run it locally.
+- [Hugging Face](https://huggingface.co/): The platform where the machine learning community collaborates on models, datasets, and applications. 
 
 ## Usefull tools
 _Diagram_:
