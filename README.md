@@ -293,6 +293,7 @@ Frameworks:
 - [Ollama: Running AI on your machine](https://ollama.com/): You [install](https://ollama.com/download) Ollama on your machine, downloads a [model](https://ollama.com/search) and then run it locally.
 - [Hugging Face](https://huggingface.co/): The platform where the machine learning community collaborates on models, datasets, and applications.
 - Vibe Coding: It is an AI-assisted software development approach where developers use natural language to instruct AI to generate code.
+- [Content of Agentic AI Engineering Course by Ed Donner](https://github.com/ed-donner/agents/tree/main)
 
 ## Usefull tools
 _Diagram_:
