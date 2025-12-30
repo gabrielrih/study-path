@@ -297,6 +297,7 @@ Frameworks:
 - MCP Servers marketplaces:
     - [https://mcp.so/](https://mcp.so/)
     - [https://glama.ai/](https://glama.ai/)
+    - [https://smithery.ai/](https://smithery.ai/)
 
 ## Usefull tools
 _Diagram_:
