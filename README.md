@@ -125,6 +125,7 @@ Usefull tools:
 
 ### ClickHouse
 
+- [Docs](https://clickhouse.com/docs)
 - [Learning path](https://clickhouse.com/learn)
 - [PyPi real-time dashboard: Using clickhouse](https://clickpy.clickhouse.com/)
 - [Parquet format](https://parquet.apache.org/)
