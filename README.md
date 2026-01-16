@@ -7,6 +7,7 @@ Most of them I already study and I keep here for future references. But, some of
     - [PostgreSQL](#postgresql)
     - [SQL Server](#sql-server)
     - [MongoDB](#mongodb)
+    - [Clickhouse](#clickhouse)
 - [2. Cloud Computing](#2-cloud-computing)
     - [Azure](#azure)
     - [AWS](#aws)
@@ -96,7 +97,6 @@ Tools:
 - [What is MongoDB?](https://www.mongodb.com/docs/manual/)
 - [MongoDB Atlas API resources](https://www.mongodb.com/docs/atlas/reference/api-resources/)
 
-
 Modeling:
 - [Data Modeling Introduction](https://www.mongodb.com/docs/manual/core/data-modeling-introduction/#data-modeling-introduction)
 - [Schema Validation](https://www.mongodb.com/docs/manual/core/schema-validation/#schema-validation)
@@ -121,6 +121,13 @@ Usefull tools:
 - [MongoDB Compass](https://www.mongodb.com/products/compass)
 - [Mongo Shell](https://www.mongodb.com/docs/v4.4/mongo/)
 - [mtools](https://github.com/rueckstiess/mtools)
+
+
+### ClickHouse
+
+- [Learning path](https://clickhouse.com/learn)
+- [PyPi real-time dashboard: Using clickhouse](https://clickpy.clickhouse.com/)
+- [Parquet format](https://parquet.apache.org/)
 
 ## 2. Cloud Computing
 
