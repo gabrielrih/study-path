@@ -307,7 +307,9 @@ Frameworks:
     - [https://glama.ai/](https://glama.ai/)
     - [https://smithery.ai/](https://smithery.ai/)
 - [asyncio Python library](https://docs.python.org/3/library/asyncio.html)
-- [Server: Google search API](https://serper.dev/)
+- Tools:
+    - [GitIngest: Prompt-friendly codebase](https://gitingest.com/)
+    - [Server: Google search API](https://serper.dev/)
 - Articles:
     - [Building effective agents (Anthropic)](https://www.anthropic.com/engineering/building-effective-agents)
 
