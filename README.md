@@ -310,6 +310,7 @@ Frameworks:
 - Tools:
     - [GitIngest: Prompt-friendly codebase](https://gitingest.com/)
     - [Server: Google search API](https://serper.dev/)
+    - [Context7](https://context7.com): Up-to-date Code Docs For Any Prompt
 - Articles:
     - [Building effective agents (Anthropic)](https://www.anthropic.com/engineering/building-effective-agents)
 
