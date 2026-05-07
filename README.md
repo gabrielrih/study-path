@@ -302,6 +302,7 @@ Frameworks:
 - [Hugging Face](https://huggingface.co/): The platform where the machine learning community collaborates on models, datasets, and applications.
 - Vibe Coding: It is an AI-assisted software development approach where developers use natural language to instruct AI to generate code.
 - [Content of Agentic AI Engineering Course by Ed Donner](https://github.com/ed-donner/agents/tree/main)
+- [AGENTS.md](https://agents.md/)
 - MCP Servers marketplaces:
     - [https://mcp.so/](https://mcp.so/)
     - [https://glama.ai/](https://glama.ai/)
